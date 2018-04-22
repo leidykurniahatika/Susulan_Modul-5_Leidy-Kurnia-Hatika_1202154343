@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LEIDYKURNIAHATIKA_1202154343_MODUL5</string>
+
+    <string-array name="colorArray">
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
